@@ -1,6 +1,9 @@
 <h1 align="center" style="font-weight:bold;"> •✧• Giani Gabriel Alvez •✧• </h1>
 
 
+<h2 align="center">
+$${\color{pink}Web \space Development \space Project \space for \space a \space Startup \space Business}$$
+</h2>
 
 <p align="center">
   <img align="center" width="650" alt="Screenshot 2024-02-24 at 10 24 25 PM" src="https://github.com/Giavonator/Giavonator/assets/68939873/d371b10c-b3b1-491e-81e5-9b95fdd45e92">
