@@ -11,14 +11,8 @@ $${\color{pink}Web \space Development \space Project \space for \space a \space 
 
 
 <h2 align="center">
-$${\color{pink}Web \space Development \space Project \space for \space a \space Startup \space Business}$$
+$${\color{lightgreen}Find \space Some \space Of \space My \space Work \space In \space The \space Repositories \space Below}$$
 </h2>
-
-<h1 align="center">
-  
-$${\color{lightblue}All \space Programming \space Files \space Created \space Over \space The \space Years}$$
-
-</h1>
 
 <!--
 **Giavonator/Giavonator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
