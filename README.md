@@ -8,12 +8,10 @@
 
 
 <h2 align="center">
-  Select \space The \space Projects \space Below \space To \space See \space My \space Work!
-$${\color{lightgreen}Find \space Some \space Of \space My \space Work \space In \space The \space Projects \space Below}$$
-$${\color{lightblue}All \space Programming \space Files \space Created \space Over \space The \space Years!}$$
+  
+$${\color{lightgreen}Find \space Some \space Of \space My \space Work \space In \space The \space Repositories \space Below}$$
 
 </h2>
-
 
 
 <!--
