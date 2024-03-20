@@ -1,4 +1,7 @@
-# "We are the time we dedicate to our dreams."
+<h1 align="center" style="font-weight:bold;"> 「 ✦ Giani Gabriel Alvez ✦ 」 </h1>
+
+
+
 <p align="center">
   <img align="center" width="706" alt="Screenshot 2024-02-24 at 10 24 25 PM" src="https://github.com/Giavonator/Giavonator/assets/68939873/d371b10c-b3b1-491e-81e5-9b95fdd45e92">
 </p>
