@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:bold;"> 「 ✧ Giani Gabriel Alvez ✧ 」 </h1>
+<h1 align="center" style="font-weight:bold;"> 「 ✧ ── •✧• Giani Gabriel Alvez •✧• ── ✧ 」 </h1>
 
 
 
